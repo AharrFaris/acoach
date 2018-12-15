@@ -1,0 +1,17 @@
+(Fix markup error first : http://prntscr.com/lj8bjb )
+You can check markup validation from here : https://validator.w3.org/#validate_by_input
+
+
+
+1. http://prntscr.com/lj83l5
+2. http://prntscr.com/lj841w
+3. http://prntscr.com/lj856e
+4. http://prntscr.com/lj85wl
+5. http://prntscr.com/lj86yx
+6. http://prntscr.com/lj87ek
+7. http://prntscr.com/lj87q1
+8. http://prntscr.com/lj88bv
+9. http://prntscr.com/lj89me
+10. http://prntscr.com/lj8am1
+
+fix this issues and similar issues on other pages.
