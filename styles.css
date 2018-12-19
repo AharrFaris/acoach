@@ -301,6 +301,8 @@ html,body{ overflow-x: hidden; }
 @media only screen and ( max-width: 480px )
 {
     .section-event .content-block .content { padding: 0 15px; }
+    .section-about_us .content-block .content-1 { padding: 0 15px; }
+    .section-about_us .content-block .content-1 .right-side { margin-top: 2px; }
 }
 
 @media only screen and ( max-width: 767px )
