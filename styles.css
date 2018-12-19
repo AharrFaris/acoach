@@ -298,12 +298,6 @@ html,body{ overflow-x: hidden; }
 
 /* media max
 ===================== */
-@media only screen and ( max-width: 480px )
-{
-    .section-event .content-block .content { padding: 0 15px; }
-    .section-about_us .content-block .content-1 { padding: 0 15px; }
-    .section-about_us .content-block .content-1 .right-side { margin-top: 2px; }
-}
 
 @media only screen and ( max-width: 767px )
 {
@@ -314,6 +308,8 @@ html,body{ overflow-x: hidden; }
     .single-product .left-side .text { margin-top: 50px; }
     .comment-wrapp .text .com-date { display: block; }
     .single-product .left-side .product-wrapp .am-cart .btn { margin-top: 30px; }
+    .section-event .content-block .content { padding: 0 15px; }
+    .section-about_us .content-block .content-1 { padding: 0 15px; }
     
 }
 
@@ -334,6 +330,7 @@ html,body{ overflow-x: hidden; }
     .section-contact .content-block .content-wrapp .content .under-line {left: 45%; }
     .section-error .content-wrapp form { margin-top: 30px; }
     footer .footer-top .btn { margin-top: 30px; }
+    .section-about_us .content-block .content-1 .right-side { margin-top: 2px; }
 }
 
 @media only screen and ( max-width: 1200px )
