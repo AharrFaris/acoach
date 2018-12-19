@@ -309,7 +309,6 @@ html,body{ overflow-x: hidden; }
     .comment-wrapp .text .com-date { display: block; }
     .single-product .left-side .product-wrapp .am-cart .btn { margin-top: 30px; }
     .section-event .content-block .content { padding: 0 15px; }
-    .section-about_us .content-block .content-1 { padding: 0 15px; }
     
 }
 
@@ -555,6 +554,7 @@ html,body{ overflow-x: hidden; }
 /* section about us */
 .section-about_us .content-block { padding-top: 58px; }
 .section-about_us .content { margin-top: 98px; }
+.section-about_us .content-1 { padding: 0 15px; }
 .section-about_us .content-1 .right-side { text-align: left; padding-top: 74px;  border: solid 1px rgba(153, 153, 153, 0.3); }
 .section-about_us .content-1 .right-side .under-line { top: 10px; }
 .section-about_us .content-1 .right-side .quotee { margin-top: 50px; padding-bottom: 20px; }
